@@ -36,3 +36,14 @@ body{
 .cabecalho-imagem {
     width: 100px;
 }
+
+#burguer {
+    background-color: rgb(71, 151, 255);
+    display: block;
+    color: rgb(255, 254, 253);
+    text-align: center;
+    padding: 10px;
+    }
+    #menu {
+    display: none;
+    }
