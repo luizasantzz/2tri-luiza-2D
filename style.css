@@ -13,9 +13,9 @@ body{
 }
 
 .cabecalho-titulo{
-    font-size: rgb(236, 130, 240);
+   font-size: 30px;
     font-weight: rgb(157, 9, 255);
-    padding: 12px;
+    padding: 20px;
     text-align: center;
 }
 
@@ -25,8 +25,8 @@ body{
 
 .cabecalho-menu-item{
     display: block;
-    padding: 15px;
-    font-size: 28px;
+    padding: 40px;
+    font: size 28px;
     text-decoration: none;
     color: black;
     text-align: center;
@@ -42,7 +42,7 @@ body{
     display: block;
     color: rgb(255, 254, 253);
     text-align: center;
-    padding: 10px;
+    padding: 25px;
     }
     #menu {
     display: none;
